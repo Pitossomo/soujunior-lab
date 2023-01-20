@@ -28,7 +28,7 @@
     - UX/ UI: <a href="https://www.linkedin.com/in/diogo-reis-1408b6239/">Diogo Reis</a> |  <a href="https://www.linkedin.com/in/vinioliveirasilva/">Vinicius Oliveira </a>   <br>
     - Product Manager:  <a href="https://www.linkedin.com/in/midiã-galvão-361431169/">Midiã Galvão</a> <br>
     - Agilista: <a href="https://www.linkedin.com/in/mari-moraes/">Mari Moraes</a>  <br>
-    - Mentor: *a definir* <br>
+    - Mentor: <a href="https://linkedin.com/in/joao-m-seabra">João Seabra</a> <br>  <br>
     - QA:  <a href="https://www.linkedin.com/in/karoline-ibrodrigues/">Karoline Rodrigues</a> <br>
   
 <hr/>
